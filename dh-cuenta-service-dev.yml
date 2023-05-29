@@ -1,0 +1,4 @@
+server:
+  port: ${port:9999}
+
+message: Consumiendo configuración del servidor esta activa para desarrollo
